@@ -14,8 +14,3 @@ logging.basicConfig(
     level=logging.INFO,
 
 )
-
-<<<<<<< HEAD
-=======
-
->>>>>>> dfd272b362dc9938826ec985a0d462c57e8e4e39
